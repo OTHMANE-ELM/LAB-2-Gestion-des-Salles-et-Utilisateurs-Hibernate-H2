@@ -41,7 +41,7 @@ Le projet est configuré avec **persistence.xml**.
 ----------------------------------------------------------------
 
 
-https://youtu.be/oQ0w6akMyxs
+(https://github.com/OTHMANE-ELM/LAB-2-Gestion-des-Salles-et-Utilisateurs-Hibernate-H2/blob/main/videos/App.mp4)
 
 
 ----------------------------------------------------------------
