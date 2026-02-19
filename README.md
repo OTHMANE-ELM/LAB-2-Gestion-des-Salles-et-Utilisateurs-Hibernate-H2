@@ -1,83 +1,48 @@
 # LAB-2-Gestion-des-Salles-et-Utilisateurs-Hibernate-H2
 
-# Gestion des Salles et Utilisateurs (JPA + Hibernate + H2)
-
-## 📌 Description
-
-Ce projet est une application Java réalisée avec **Maven**, utilisant **JPA (Java Persistence API)** avec **Hibernate comme provider**, et la base de données **H2 en mémoire**.
-
-Le but du projet est de comprendre :
-
-- La configuration de JPA avec `persistence.xml`
-- La connexion à une base de données H2
-- La création des entités avec annotations
-- La génération automatique des tables
-- Les opérations CRUD (Create, Read, Update, Delete)
-- Les tests unitaires avec JUnit
-
----
-
-## 🛠️ Technologies utilisées
-
-- Java
-- Maven
-- JPA
-- Hibernate
-- H2 Database
-
----
-
-
-## ⚙️ Configuration
-
-Le projet est configuré avec **persistence.xml**.
-
-
----
 
 ## 🎥 Vidéos
 
-- ▶️ Exécution de la classe principale :
+-  Exécution de la classe principale :
 ----------------------------------------------------------------
 
 
-(https://github.com/OTHMANE-ELM/LAB-2-Gestion-des-Salles-et-Utilisateurs-Hibernate-H2/blob/main/videos/App.mp4)
+
+
+https://github.com/user-attachments/assets/8fe0ba1c-8d99-4f23-a690-973b7a5310d3
+
+
 
 
 ----------------------------------------------------------------
   
-- ▶️ Test Salle :
+-  Test Salle :
 ----------------------------------------------------------------
 
 
-https://youtu.be/1a2y7I4Goo0
 
 
-----------------------------------------------------------------
+https://github.com/user-attachments/assets/1713956e-6af6-45d6-8831-01c67fe359df
 
-- ▶️ Test Utilisateur :
-----------------------------------------------------------------
-
-
-https://youtu.be/FKgKZ-9Yg8E
 
 
 ----------------------------------------------------------------
 
-## 🎯 Ce que j'ai appris
+-  Test Utilisateur :
+----------------------------------------------------------------
 
-- Configurer Hibernate
-- Utiliser H2 Database
-- Créer des entités avec annotations
-- Gérer les transactions
-- Implémenter CRUD
 
----
 
-## 👨‍💻 Auteur
 
-Othmane El Matlini  
-Étudiant en Systèmes Informatiques Répartis
+https://github.com/user-attachments/assets/d5b88c07-2584-4865-8acf-a99bbfa85220
+
+
+
+
+----------------------------------------------------------------
+
+
+
 
 
 
